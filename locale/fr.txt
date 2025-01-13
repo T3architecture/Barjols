@@ -1,0 +1,28 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projet Barjols
+
+## Skin
+
+### Label
+label4056.text = Maison à Briançon
+
+## Media
+
+### Title
+panorama_6A873D68_601B_3179_41D5_E67294F9DDE0.label = Le Bas du Bd Grisolle
+panorama_6A87647F_601B_F757_41CD_FAE97097AFC4.label = La placette
+panorama_6A89A7DE_601B_7159_41B1_3DAC0A2563DA.label = Banc place de la fontaine
+panorama_6A8D1833_601A_DEEF_41D0_D42E790D68EF.label = Le Haut du Bd Grisolle
+panorama_6AF37138_6019_4ED9_41C4_A977B5811DAA.label = La place
+panorama_6B74057B_6019_315F_41C3_0070E332DAB6.label = Gendarmerie
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
