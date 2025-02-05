@@ -10,17 +10,17 @@ tour.name = Projet Barjols
 ## Skin
 
 ### Label
-label4056.text = Boulevard Grisolle, Barjols
+label4056.text = Maison à Briançon
 
 ## Media
 
 ### Title
-panorama_6A873D68_601B_3179_41D5_E67294F9DDE0.label = Le Bas 
-panorama_6A87647F_601B_F757_41CD_FAE97097AFC4.label = La placette
-panorama_6A89A7DE_601B_7159_41B1_3DAC0A2563DA.label = Banc 
-panorama_6A8D1833_601A_DEEF_41D0_D42E790D68EF.label =  Haut du Grisolle
-panorama_6AF37138_6019_4ED9_41C4_A977B5811DAA.label = La place
-panorama_6B74057B_6019_315F_41C3_0070E332DAB6.label = Gendarmerie
+panorama_D814BD7C_D658_F2BB_41E1_6AE2D3AF3099.label = Place platanes
+panorama_D84141B6_D648_95B4_41D4_D532B67A1A41.label = La placette
+panorama_D863174F_D647_BED4_41C9_D499F59A81E3.label = Bas Bd Grisolle
+panorama_D8655B32_D648_964C_41C9_4DA1BC65DA6A.label = Place fontaine
+panorama_D87602B0_D648_B64C_41E5_760CFE032415.label = Haut Bd Grisolle
+panorama_D98C17E5_D647_BDD5_41E3_3CDE10882A1E.label = Police municipale
 
 ## Action
 
