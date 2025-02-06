@@ -10,7 +10,7 @@ tour.name = Projet Barjols
 ## Skin
 
 ### Label
-label4056.text = Maison à Briançon
+label4056.text = Barjols, Bd Grisolle
 
 ## Media
 
